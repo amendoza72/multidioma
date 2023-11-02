@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">multidioma</string>
+    <string name="bienvenida">Hola mundo!!</string>
+</resources>
